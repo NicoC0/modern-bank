@@ -4,7 +4,7 @@ import Billing from './Billing'
 import Business from './Business'
 import Button from './Button'
 import CardDeal from './CardDeal'
-import Client from './Client'
+import Clients from './Clients'
 import CTA from './CTA'
 import FeedBackCard from './FeedBackCard'
 import Footer from './Footer'
@@ -19,7 +19,7 @@ export {
   Business,
   Button,
   CardDeal,
-  Client,
+  Clients,
   CTA,
   FeedBackCard,
   Footer,
